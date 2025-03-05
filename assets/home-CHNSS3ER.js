@@ -1,0 +1,1 @@
+import{w as e}from"./with-props-Db1jVSdq.js";import{l as t}from"./chunk-HA7DTUK3-DItZKCSJ.js";function m({}){return[{title:"ENTER: /LIMEN"},{name:"Enter LIMEN web app",content:""}]}const i=e(function(){return t.jsx("div",{children:t.jsx("h1",{children:"Home"})})});export{i as default,m as meta};
